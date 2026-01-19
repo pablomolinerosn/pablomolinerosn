@@ -1,8 +1,8 @@
 # Hi there, I'm Pablo Molineros 👋
 
-### 👨‍💻 Sobre mí
-- 🏦 Actualmente trabajo en **Banco Pichincha**, donde me enfoco en **banca relacional** y **estrategias de segmentación de clientes**.
-- 🎓 Estudiante de **Maestría en Inteligencia Artificial Aplicada**.
+### 👨‍💻 Professional Profile
+- 🏦 Currently working at **Banco Pichincha**, specializing in **Relational Banking** and **Customer Segmentation Strategies**.
+- 🎓 Pursuing a **Master's Degree in Applied Artificial Intelligence**, focusing on data-driven financial innovation.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -10,5 +10,5 @@
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
-### 📫 Contacto
+### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablomolinerosn)
